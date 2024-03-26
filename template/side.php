@@ -14,7 +14,7 @@
           <img src="dist/img/fallen.jpg" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">Pino</a>
+          <a href="#" class="d-block">IcaloAlima</a>
         </div>
       </div>
 
